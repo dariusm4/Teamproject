@@ -1,0 +1,7 @@
+node_modules/
+backend/petcare.db
+backend/petcare.db-journal
+backend/petcare.db-wal
+backend/petcare.db-shm
+*.log
+.DS_Store
